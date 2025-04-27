@@ -1,0 +1,16 @@
+data preprocessing
+[gray scale] -> [canny] -> [tresh: binarization] -> [contour]
+
+what is canny in opencv:
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
+basicaly it's edge detection built by opencv
+
+known data:
+- contour data
+- tresh data
+- width and height
+
+objecive: to score text 
+
+plan: is the text visible with its own bacground
+
