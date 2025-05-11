@@ -1,4 +1,4 @@
-# SimpleCNN Image Classifier
+# CNN Movie Poster Classifier
 
 Model ini merupakan implementasi sederhana dari arsitektur CNN (Convolutional Neural Network) untuk klasifikasi citra grayscale menjadi 5 kelas berbeda.
 
