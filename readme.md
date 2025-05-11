@@ -8,7 +8,7 @@ The model utilizes 2 convolutional layers followed by several fully connected la
 
 Below is the general architecture of the model:
 
-<!-- ![Model Architecture](assets/model_architecture.png)   -->
+![Model Architecture](./CNN Layers.png)  
 <!-- <sub>*Gambar ini harus disimpan di `assets/model_architecture.png`*</sub> -->
 
 ---
