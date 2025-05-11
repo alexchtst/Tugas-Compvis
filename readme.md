@@ -17,7 +17,7 @@ Below is the general architecture of the model:
 
 You can download the pre-trained model weights from the following link:
 
-🔗 [Download Weights]((https://simpan.ugm.ac.id/s/DAFm1xPixsM0s3x))
+🔗 [Download Weights](https://simpan.ugm.ac.id/s/DAFm1xPixsM0s3x)
 
 ---
 
