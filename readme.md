@@ -17,7 +17,7 @@ Berikut arsitektur umum dari model:
 
 Kamu dapat mengunduh bobot (weights) model yang telah dilatih dari link berikut:
 
-🔗 [Download Weights](https://simpan.ugm.ac.id/s/DAFm1xPixsM0s3x)
+🔗 [Download Weights]((https://simpan.ugm.ac.id/s/DAFm1xPixsM0s3x))
 
 ---
 
